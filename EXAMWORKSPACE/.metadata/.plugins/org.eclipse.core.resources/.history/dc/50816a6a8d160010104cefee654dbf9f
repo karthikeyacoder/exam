@@ -1,0 +1,5 @@
+package com.klef.fsd.exam.repository;
+
+public interface FarmerRepository {
+
+}

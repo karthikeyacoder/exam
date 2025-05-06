@@ -1,0 +1,7 @@
+package com.klef.fsd.exam.service;
+
+public interface FarmerService {
+	public String addfarmer(Farmer f);
+	public String deletefarmer(int cid);
+	public List<Farmer> viewallfarmers();
+}

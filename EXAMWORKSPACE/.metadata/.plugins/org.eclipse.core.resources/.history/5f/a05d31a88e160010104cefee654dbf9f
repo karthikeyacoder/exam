@@ -1,0 +1,6 @@
+package com.klef.fsd.exam.service;
+
+@Serv
+public class FarmerServiceImpl {
+	
+}
